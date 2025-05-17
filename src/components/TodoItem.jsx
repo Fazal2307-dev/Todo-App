@@ -7,7 +7,9 @@ const TodoItem=()=>{
          <input type="checkbox" />
           <p>Eat</p>
           <p>...</p>
-
+          <input type="checkbox" />
+          <p>Eat</p>
+          <p>...</p>
       </li>
      
     </div>

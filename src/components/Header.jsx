@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Header = ()=>{
+const Header = (args)=>{
   return (
     <>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid, ullam.</p>
+   <h1 classNAme='todo-header'>{args.tent}</h1>
     
     </>
   )

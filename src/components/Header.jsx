@@ -3,7 +3,7 @@ import React from 'react';
 const Header = (args)=>{
   return (
     <>
-   <h1 classNAme='todo-header'>{args.tent}</h1>
+   <h1 className='todo-header'>{args.tent}</h1>
     
     </>
   )
